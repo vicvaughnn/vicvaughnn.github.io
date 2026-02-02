@@ -1,2 +1,2 @@
-vicvaughn.github.io
+vicvaughnn.github.io
 Сайт-визитка HTML, CSS
